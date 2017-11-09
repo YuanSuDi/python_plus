@@ -19,6 +19,7 @@ def makeItalic(fun):
 """
 
 
+# 当使用装饰方法时，就相当于调用了装饰的方法
 @makeBold
 @makeItalic
 def write(wold):

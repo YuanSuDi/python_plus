@@ -14,6 +14,6 @@ def test1(a, b):
     return a+b
 
 
-sum = test1(1, 2)
-print("a+b=%d" % sum)
+sum1 = test1(1, 2)
+print("a+b=%d" % sum1)
 
